@@ -11,6 +11,10 @@ public class Sumas {
         
         suma = dato1 + dato2;
         System.out.println("suma: "+suma);
+        int resta;
+        resta = dato1 - dato2;
+        System.out.println("resta:"+ resta);
+        
     }
     
 }
