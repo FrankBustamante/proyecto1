@@ -15,6 +15,10 @@ public class Sumas {
         resta = dato1 - dato2;
         System.out.println("resta:"+ resta);
         
+        int multiplicacion;
+        multiplicacion = dato1 * dato2;
+        System.out.println("la multiplicacion" +multiplicacion);
+        
     }
     
 }
