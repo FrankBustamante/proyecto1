@@ -19,6 +19,9 @@ public class Sumas {
         multiplicacion = dato1 * dato2;
         System.out.println("la multiplicacion" +multiplicacion);
         
+        double division;
+        division = dato1 / dato2;
+        System.out.println("division: "+division);
     }
     
 }
